@@ -38,7 +38,7 @@ Claude automatically routes based on your target type, loads the right reference
 **Claude Code (recommended):**
 ```bash
 # Clone into your Claude skills directory
-git clone https://github.com/YOUR_USERNAME/claude-security-research-skill ~/.claude/skills/security-research
+git clone https://github.com/rhysha/claude-security-research-skill ~/.claude/skills/security-research
 ```
 
 **Manual / MCP:**
