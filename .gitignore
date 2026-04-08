@@ -1,0 +1,27 @@
+# Engagement outputs — never commit these
+security-assessment-*/
+pentest-*/
+engagement-*/
+*.log
+*.xml
+*.gnmap
+findings.md
+
+# Credentials and secrets
+*.env
+.env*
+secrets.txt
+creds.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Claude local config (contains personal settings)
+.claude/
+.claude/settings.local.json
